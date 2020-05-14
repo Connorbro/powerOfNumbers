@@ -18,7 +18,6 @@ namespace ForProj
             {
                 result = result * baseNum;
             }
-
             return result;
         }
     }
