@@ -7,7 +7,7 @@ namespace ForProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(GetPow());
+            Console.WriteLine(GetPow(4, 2));
             Console.ReadLine();
         }
         static int GetPow(int baseNum, int powNum)
@@ -18,8 +18,8 @@ namespace ForProj
             {
                 result = result * baseNum;
             }
-        
-            return result 
-    }
 
+            return result;
+        }
+    }
 }
