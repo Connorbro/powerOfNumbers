@@ -6,13 +6,17 @@ namespace ForProj
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+        }
+        static void Main(string[] args)
+        {
             Console.ReadLine();
         }
-        static int GetPow(int baseNum, int powNum; i++)
-            {
-                int result = 1;
+        static int GetPow(int baseNum, int powNum)
+        {
+            int result = 1;
 
-                return result;
-            }
+        for(int i = 0; i < powNum)
+        }
     }
 }
