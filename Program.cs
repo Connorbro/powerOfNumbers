@@ -6,7 +6,7 @@ namespace ForProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
         static int GetPow(int baseNum, int powNum; i++)
             {
