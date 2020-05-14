@@ -8,5 +8,9 @@ namespace ForProj
         {
             Console.WriteLine("Hello World!");
         }
+        static int GetPow(int baseNum, int powNum; i++)
+            {
+                
+            }
     }
 }
