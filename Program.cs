@@ -10,7 +10,7 @@ namespace ForProj
         }
         static int GetPow(int baseNum, int powNum; i++)
             {
-                
+                int result 1;
             }
     }
 }
